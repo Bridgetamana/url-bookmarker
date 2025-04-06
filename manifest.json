@@ -1,0 +1,14 @@
+{
+    "name": "Url Bookmark",
+    "description": "A url bookmarker extension",
+    "version": "1.0",
+    "manifest_version": 3,
+    "author": "amanabridget03@gmail.com",
+    "action": {
+        "default_popup": "./index.html",
+        "default_icon": "./logo.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}

@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+.btn-wrapper {
+  margin-block: 10px;
+  display: flex;
+  gap: 12px;
+  justify-content: flex-end;
+  width: 300px;
+}
+
+button {
+  cursor: pointer;
+  padding: 10px;
+  background: rgb(82, 82, 218);
+  color: white;
+  border: 1px solid rgb(82, 82, 218);
+  border-radius: 2px;
+}
+
+#delete-btn {
+  background-color: white;
+  color: rgb(82, 82, 218);
+}
+
+.wrapper {
+  max-width: 300px;
+}
+
+ul > li {
+    margin-top: 12px;
+}
+
+a {
+    font-size: 16px;
+}
